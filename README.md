@@ -6,4 +6,4 @@ You can see my resume
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreitablan&repo=Actors-Guild-Awards-Visualizer&show_icons=true&theme=transparent)](https://github.com/andreitablan/Actors-Guild-Awards-Visualizer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreitablan&repo=Graph-bot&show_icons=true&theme=transparent)](https://github.com/andreitablan/Graph-bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rianer&repo=FII-IMR-ERFELETA&show_icons=true&theme=transparent)](https://github.com/Rianer/FII-IMR-ERFELETA) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rianer&repo=FII-IMR-ERFELETA&show_icons=true&theme=transparent)](https://github.com/Rianer/FII-IMR-ERFELETA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leagan-Dan&repo=Online-Catalogue&show_icons=true&theme=transparent)](https://github.com/Leagan-Dan/Online-Catalogue) 
