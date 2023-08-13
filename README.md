@@ -1,5 +1,5 @@
  ### Hi there 👋
-You can see my resume 
+You can find my resume [here](https://drive.google.com/file/d/1y7NtzZYwpU-qZeJ5qiuHRCsWA5v5dfxl/view?usp=drive_link).
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leagan-Dan&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leagan-Dan&layout=compact&show_icons=true&theme=transparent)
 ## My projects
